@@ -1,0 +1,7 @@
+package com.educacionit.servicios;
+
+
+@WebService
+public class ServicioBasico {
+
+}
