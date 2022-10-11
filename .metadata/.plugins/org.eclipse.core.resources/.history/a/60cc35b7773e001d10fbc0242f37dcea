@@ -1,4 +1,0 @@
-
-url=jdbc:mysql://localhost:3307/java_web_api?serverTimezone=UTC&useSSL=false
-user=root
-pass=root

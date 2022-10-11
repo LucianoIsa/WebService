@@ -11,12 +11,10 @@
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
-    <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.DAO"/>
-    <fullyQualifiedTypeName name="com.educacionit.entidades.Usuario"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.ConexionMySQL"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
@@ -25,4 +23,14 @@
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.ServicioBasico"/>
+    <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
+    <fullyQualifiedTypeName name="com.educacionit.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+    <fullyQualifiedTypeName name="javax.jws.WebParam"/>
+    <fullyQualifiedTypeName name="java.lang.Deprecated"/>
 </qualifiedTypeNameHistroy>
